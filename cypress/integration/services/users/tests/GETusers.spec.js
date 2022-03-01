@@ -6,6 +6,7 @@ describe("GET Users", () => {
       expect(response.status).to.eq(200);
       expect(response.body).to.be.not.null;
       expect(response.body).to.be.not.empty;
+      cy.log(response.body);
     });
   });
 });
