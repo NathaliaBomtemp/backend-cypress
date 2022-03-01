@@ -20,6 +20,6 @@ Then open the Cypress and run the Specs, with:
 
 ## Tests Details
 
-I'm using here this [Swagger](http://fakerestapi.azurewebsites.net/index.html)'s endpoints, and gonna update here with the automated endpoints and code details ;)
+I'm using this [Swagger](http://fakerestapi.azurewebsites.net/index.html)'s APIs, and gonna update here with the automated endpoints and code details ;)
 
 <img width="901" alt="apis" src="https://user-images.githubusercontent.com/70415844/155901975-50ffac12-93e4-4f51-abc8-9a2c171a3e19.png">
