@@ -12,4 +12,12 @@ describe("POST Users", () => {
       expect(response.body).to.be.not.empty;
     });
   });
+
+  it("Try to add a invalid user", () => {
+    POSTUser.invalidUser().should((response) => {
+      expect(response.status).to.eq(400);
+      expect(response.body.title).to.eq("One or more validation errors occurred.")
+
+    });
+  });
 });
