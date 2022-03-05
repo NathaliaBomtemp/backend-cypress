@@ -28,14 +28,16 @@ Then open the Cypress and run the Specs, with:
 I'm using this [Swagger](http://fakerestapi.azurewebsites.net/index.html)'s APIs, and gonna update here with the automated endpoints and the scenarios details ;)
 
 <img width="904" alt="Captura de tela 2022-03-04 185503" src="https://user-images.githubusercontent.com/70415844/156847253-7788fdc3-414b-4270-b03c-d511c95d90dc.png">
+<img width="570" alt="Captura de tela 2022-03-04 185829" src="https://user-images.githubusercontent.com/70415844/156896682-9aec79c9-98eb-4dac-928e-edc0acd195b6.png">
 
-![imagem_2022-03-04_185934](https://user-images.githubusercontent.com/70415844/156847600-93a48ac7-df20-4b09-a397-d704e76bee26.png)
 
 <img width="899" alt="Captura de tela 2022-03-04 185518" src="https://user-images.githubusercontent.com/70415844/156847558-34f8c421-0484-48c8-a1f7-bdcc7272ba92.png">
+<img width="570" alt="Captura de tela 2022-03-04 190045" src="https://user-images.githubusercontent.com/70415844/156896750-2ca4764c-2936-4afa-bce5-f7f26fadd989.png">
 
-![imagem_2022-03-04_190052](https://user-images.githubusercontent.com/70415844/156847737-238f389a-0290-4366-863a-9d83f1fffc30.png)
 
 <img width="898" alt="Captura de tela 2022-03-04 185537" src="https://user-images.githubusercontent.com/70415844/156848004-35d1560a-1c36-4639-ba0f-99d7be9ddbaa.png">
+<img width="570" alt="Captura de tela 2022-03-05 155101" src="https://user-images.githubusercontent.com/70415844/156896634-7607a962-d9b4-44bf-8433-dba477fe4a26.png">
+
 
 <img width="899" alt="Captura de tela 2022-03-04 185552" src="https://user-images.githubusercontent.com/70415844/156848021-4bcf3517-3c84-46cd-8706-1796043a1f0f.png">
 
