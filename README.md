@@ -1,8 +1,8 @@
-## backend-cypress
+## Integrated Backend Tests - Cypress 
 
 This project includes a test API automation model, using Cypress + JavaScript as technology.
 
-## Running the project
+### Running the project
 
 First of all you need to install:
 
@@ -18,12 +18,12 @@ Then open the Cypress and run the Specs, with:
 
 `npx cypress open`
 
-## Project Structure
+### Project Structure
 
 ![project structure (5) (1)](https://user-images.githubusercontent.com/70415844/156846610-d620005d-3a48-44f8-b911-dc094b76e725.png)
 
 
-## Tests Details
+### Tests Details
 
 I'm using this [Swagger](http://fakerestapi.azurewebsites.net/index.html)'s APIs, and gonna update here with the automated endpoints and the scenarios details ;)
 
@@ -40,5 +40,7 @@ I'm using this [Swagger](http://fakerestapi.azurewebsites.net/index.html)'s APIs
 
 
 <img width="899" alt="Captura de tela 2022-03-04 185552" src="https://user-images.githubusercontent.com/70415844/156848021-4bcf3517-3c84-46cd-8706-1796043a1f0f.png">
+<img width="570" alt="Captura de tela 2022-03-07 204222" src="https://user-images.githubusercontent.com/70415844/157140229-0b6dbe4f-dba6-4fcb-9f3b-55034fabf5be.png">
+
 
 <img width="895" alt="Captura de tela 2022-03-04 185619" src="https://user-images.githubusercontent.com/70415844/156848036-23f8b8d0-4fc1-4a1c-8c3b-5bba0b9a49e3.png">
