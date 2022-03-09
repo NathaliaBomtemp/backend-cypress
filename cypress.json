@@ -1,5 +1,5 @@
 {
   "baseUrl": "http://fakerestapi.azurewebsites.net/api/v1/",
-  "ignoreTestFiles": ["*.json"],
+  "testFiles": ["**/**.spec.js"],
   "projectId": "k3xgt3"
 }
