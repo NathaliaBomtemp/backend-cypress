@@ -18,14 +18,10 @@ Then open the Cypress and run the Specs, with:
 
 `npx cypress open`
 
-### Project Structure
+### Project Structure and Tests Details
+![gif](https://user-images.githubusercontent.com/70415844/157537452-9ce46428-ac12-4b28-bcc6-048458a0a76a.gif)
 
-![project structure (5) (1)](https://user-images.githubusercontent.com/70415844/156846610-d620005d-3a48-44f8-b911-dc094b76e725.png)
-
-
-### Tests Details
-
-I'm using this [Swagger](http://fakerestapi.azurewebsites.net/index.html)'s APIs, and gonna update here with the automated endpoints and the scenarios details ;)
+I'm using this [Swagger](http://fakerestapi.azurewebsites.net/index.html)'s APIs, and bellow are the scenarios for each endpoint.
 
 <img width="904" alt="Captura de tela 2022-03-04 185503" src="https://user-images.githubusercontent.com/70415844/156847253-7788fdc3-414b-4270-b03c-d511c95d90dc.png">
 <img width="570" alt="Captura de tela 2022-03-04 185829" src="https://user-images.githubusercontent.com/70415844/156896682-9aec79c9-98eb-4dac-928e-edc0acd195b6.png">
