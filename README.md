@@ -41,3 +41,19 @@ I'm using this [Swagger](http://fakerestapi.azurewebsites.net/index.html)'s APIs
 
 <img width="895" alt="Captura de tela 2022-03-04 185619" src="https://user-images.githubusercontent.com/70415844/156848036-23f8b8d0-4fc1-4a1c-8c3b-5bba0b9a49e3.png">
 <img width="570" alt="Captura de Tela (1)" src="https://user-images.githubusercontent.com/70415844/157354602-0380b55b-8ae5-4722-907d-d1a6c0ba067b.png">
+
+## :mortar_board: Autora
+<table align="center">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/NathaliaBomtemp">
+               <img src="https://user-images.githubusercontent.com/70415844/158703092-49a4ca70-a69c-45fb-8fba-886324e8e831.png" width="150px;" alt="Image" />
+                <br />
+                <sub><b>Nathalia Bomtempo</b></sub>
+            </a>
+        </td>    
+    </tr>
+</table>
+<h4 align="center">
+   Feito com :hearts: by  <a href="https://www.linkedin.com/in/nathalia-bomtempo/" target="_blank"> Nathalia Bomtempo </a>
+</h4>
