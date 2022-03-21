@@ -1,6 +1,6 @@
-## Integrated Backend Tests - Cypress 
+## Integrated Backend Tests - Cypress
 
-This project includes a test API automation model, using Cypress + JavaScript as technology.
+This project it's a test API automation model, using Cypress + JavaScript as technology.
 
 ### Running the project
 
@@ -9,7 +9,7 @@ First of all you need to install:
 - Git
 - Node.js
 
-After clone the project, open the terminal and run these two commands:
+After fork this project, open the terminal and run these two commands:
 
 `npm install` | 
 `npm install cypress --save-dev`
