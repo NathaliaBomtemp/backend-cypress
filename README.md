@@ -1,6 +1,6 @@
-## Integrated Backend Tests - Cypress
+## Contract Backend Tests - Cypress
 
-This project it's a test API automation model, using **Cypress + JavaScript** as technology.
+This project it's a API test automation model, using **Cypress + JavaScript** as technology.
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
 <img src="https://img.shields.io/badge/CYPRESS-000000?style=for-the-badge&logoColor=white" target="_blank"></a> 
